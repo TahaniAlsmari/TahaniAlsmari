@@ -45,12 +45,6 @@ My focus in Software Engineering allows me to combine systematic design, testing
 ![NetBeans](https://img.shields.io/badge/NetBeans-C19A6B?style=flat-square&logo=apache-netbeans&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-8B4513?style=flat-square&logo=visual-studio&logoColor=white)
 
----
-
-###  Technical Focus
-* **Full-Stack Development** - Building end-to-end applications.
-* **System Design & Analysis** - Understanding the big-picture architecture.
-* **Data Analysis** - Extracting insights to drive software logic.
 
 ---
 
