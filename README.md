@@ -51,7 +51,22 @@ My focus in Software Engineering allows me to combine systematic design, testing
 
 
 ---
+---
 
+###  My Coding Journey
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TahaniAlsmari&show_icons=true&theme=calvin&hide_border=true&bg_color=F5F5DC&title_color=8B4513&text_color=5D4037&icon_color=C19A6B" alt="Tahani's Stats" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahaniAlsmari&layout=compact&theme=calvin&hide_border=true&bg_color=F5F5DC&title_color=8B4513&text_color=5D4037&langs_count=6" alt="Top Languages" />
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Check%20Out%20My%20Repos-🤎-C19A6B?style=for-the-badge" />
+</p>
+
+---
 ###  GitHub Stats
 
 
