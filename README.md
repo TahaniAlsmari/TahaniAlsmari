@@ -15,14 +15,19 @@
 
 </div>
 
-###  About me
-Software Engineering student with a strong interest in building well-structured and reliable systems. I enjoy working across both frontend and backend, focusing on clarity, efficiency, and thoughtful design.
+###  About Me
+
+
+> Software Engineering student with a strong interest in building well-structured and reliable systems. I enjoy working across both frontend and backend, focusing on clarity, efficiency, and thoughtful design.
 
 I am passionate about **AI and its models**, exploring ways to integrate intelligent solutions into software systems to make them smarter and more adaptive.
 
 I enjoy working with **data-driven solutions**, from analysis to visualization, using insights to improve decision-making and system performance.
 
 My focus in Software Engineering allows me to combine systematic design, testing, and modern development practices to create scalable and maintainable applications.
+
+---
+
 
 ---
 
