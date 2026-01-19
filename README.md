@@ -1,7 +1,7 @@
 <div align="center">
 
 # Tahani Abdulaziz Alsmari 
-### Software Engineering Student 
+### Software Engineering  
 
 
   <a href="https://www.linkedin.com/in/tahani-alsmari-2a0409344">
@@ -15,7 +15,7 @@
 
 </div>
 
-###  About me
+###  About Me
 A passionate **Software Engineering Student** focused on building integrated systems that bridge the gap between frontend aesthetics and backend logic. I am deeply interested in:
 * **System Design:** Architecting scalable and maintainable solutions.
 * **AI in Software Engineering:** Integrating smart logic into practical applications.
