@@ -4,7 +4,6 @@
 
 
 
-
   <a href="https://www.linkedin.com/in/tahani-alsmari-2a0409344">
     <img src="https://img.shields.io/badge/LinkedIn-C19A6B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
