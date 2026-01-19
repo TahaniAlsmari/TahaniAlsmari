@@ -1,7 +1,8 @@
 <div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=C19A6B&center=true&vCenter=true&width=600&lines=Tahani+Abdulaziz+Alsmari;Software+Engineering" alt="Typing SVG" />
 
-# Tahani Abdulaziz Alsmari 
-### Software Engineering  
+
+
 
 
   <a href="https://www.linkedin.com/in/tahani-alsmari-2a0409344">
@@ -16,6 +17,9 @@
 </div>
 
 ###  About Me
+### 
+
+
 
 
 > Software Engineering student with a strong interest in building well-structured and reliable systems. I enjoy working across both frontend and backend, focusing on clarity, efficiency, and thoughtful design.
