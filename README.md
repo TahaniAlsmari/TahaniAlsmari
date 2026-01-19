@@ -57,8 +57,7 @@ My focus in Software Engineering allows me to combine systematic design, testing
 
 <p align="center">
   <a href="https://github.com/TahaniAlsmari?tab=repositories">
-    <img src="https://img.shields.io/badge/Check%20Out%20My%20Repos-🤎
-      -C19A6B?style=for-the-badge" alt="Check My Repos" />
+    <img src="https://img.shields.io/badge/Check%20Out%20My%20Repos-🤎-C19A6B?style=for-the-badge" alt="Check My Repos" />
   </a>
 </p>
 
